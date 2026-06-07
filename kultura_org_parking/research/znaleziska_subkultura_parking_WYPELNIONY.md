@@ -1,314 +1,322 @@
-# Subkultura parkingu PŁ — znaleziska terenowe i netnograficzne (WYPEŁNIONY)
+# Subkultura parkingu PŁ — znaleziska terenowe i netnograficzne
 
-> Parking Wydziału Inżynierii Środowiska, ul. Nadbystrzyckiego 40B, Politechnika Lubelska.  
-> Dane zebrane: obserwacja terenowa (2 tygodnie), ankieta papierowa (n=6, oznaczeni R1–R6), netnografia (4 źródła cyfrowe).  
-> Ramy teoretyczne: model Edgara Scheina (3 poziomy kultury), kryteria subkultury wg Hebdige'a (1979/2012).
+> Dokument roboczy. Uzupełniaj na bieżąco po każdej obserwacji, rozmowie i sesji netnografii.  
+> Instrukcja promotora (Panasiewicz, 07.06.2026): pogłębić badania przez wywiady, obserwację in situ i wyczerpującą netnografię Spotted + inne ślady cyfrowe. Pytanie przewodnie: **Czy mamy do czynienia z subkulturą? Jaka jest struktura klanu i co ją kształtuje?**
 
 ---
 
 ## 1. Artefakty fizyczne (materialne)
 
-| Artefakt | Lokalizacja | Opis / funkcja symboliczna |
-|---|---|---|
-| **Nieutwardzona nawierzchnia („klepisko")** | Cały parking | Centralny symbol autonomii i zaniedbania instytucjonalnego — wpis na opencaching.pl (N51°14.127', E022°33.129') ostrzega przed ryzykiem uszkodzenia zawieszenia; „klepisko" to slangowa nazwa używana przez całą społeczność |
-| **Karteczka z numerem telefonu na szybie** | Przy zablokowanym aucie | Zredukowana do samego numeru — bez przeprosin, bez wyjaśnienia. Norma de facto: zostawiasz numer gdy blokujesz; R4 potwierdza jej powszechność |
-| **Słupki i tymczasowe przeszkody** | Różne sektory | Materializacja prawa do miejsca bez tytułu prawnego; pojawiają się przy wydarzeniach masowych |
-| **Banery administracyjne / oznaczenia stref** | Wjazd, bramka 2 | Czerwona/żółta strefa, Gate 2 — jedyna widoczna regulacja instytucjonalna; ignorowana lub obchodzona |
-| **Punkty eduroam** | Nadbystrzyckiego 36 i 36b | Artefakt hybrydyzacji: wifi uczelni dociera do parkingu → samochód staje się przestrzenią akademicką |
-| **Słupek za samochodem (legenda R3)** | Sektor nieokreślony | Ktoś postawił słupek za własnym autem żeby zachować miejsce na czas zajęć — opowiadane jako legenda |
+> Przedmioty, znaki, elementy infrastruktury, które pełnią funkcję symboliczną lub regulacyjną w przestrzeni parkingu.
+
+| Artefakt | Lokalizacja | Opis / funkcja symboliczna | Zdjęcie / notatka |
+|---|---|---|---|
+| Karteczka na szybie „TU STOJĘ CO TYDZIEŃ" | Parking A, sektor 3 | Rezerwowanie nieformalnego „własnego" miejsca — gest terytorialny | do uzupełnienia |
+| Stożki / kamienie / krzesła blokujące miejsce | Wapienna, okolice garaży | Materializacja prawa do miejsca bez tytułu prawnego | do uzupełnienia (odnotowane w postach) |
+| Naklejki ostrzegające o odholowaniu na szybach | Parking przy ogródkach działkowych | Stosowane przez mieszkańców (nie uczelnię) jako forma wymuszenia; odnotowane przez Spottera jako nielegalne działanie mieszkańców | Post Spotter: „naklejają naklejki o odholowaniu na szybę czołową... Prawdopodobnie mieszkańcy je naklejają" |
+| Kartki z pretensjami za szybą (ręcznie pisane) | Parking główny, ul. Wapienna | Forma komunikacji pozainstytucjonalnej — „sąd uliczny"; potwierdzenie liczne w postach | Wzmiankowane ponad 20× jako norma („zostaw kartkę z numerem") |
+| Brak tablic informacyjnych / zniszczone znaki | Parking przy WZiP | Próżnia normatywna — widoczna w pytaniach o zasady korzystania | Post Spotter: „Cześć mam takie pytanie kto odpowiada za parking za wydziałem zarządzania uczelnia?" (20 reakcji) |
+| Kluczyki do bramy parkingowej | Portiernia WM, szatnia | Przedmiot o dużej wartości symbolicznej — znaleziony, oddany publicznie | Post Spotterka: „Kluczyk do bramy odnaleziony — zostawiłam w portierni" |
+| Słupki i szlabany | Wjazd od Wapiennej | Element regulacji przestrzeni; wzmiankowane jako niewystarczające | Post Spotter: „Jakby słupków na parkingu brakowało, to już są na złomie" |
+
+**Inne zaobserwowane artefakty:**
+
+- [ ] Nagrania z wideorejestratora (wzmiankowane jako dowód w kilku postach — de facto artefakt cyfrowy o funkcji prawnej)
+- [ ] Pozostawione numery telefonów pod szybą (karteczki) — kluczowy artefakt regulacyjny wspólnoty
 
 ---
 
 ## 2. Zachowania i rytuały
 
+> Powtarzające się praktyki, które świadczą o istnieniu niepisanych zasad i wspólnego kodu.
+
 ### 2.1 Rytuały zajmowania miejsca
 
-- **Preferowane miejsca przy drzewach i przy wejściu** — obserwacja terenowa potwierdza regularne zajmowanie tych samych pozycji przez tych samych kierowców; poczucie własności bez tytułu prawnego
-- **„Parkowanie na styk"** — technika maksymalnego wykorzystania miejsca; R5: *„pół centymetra z każdej strony"* — opisywane z dumą jako umiejętność
-- **Wzajemna pomoc (rytuał solidarności)** — R3 pomaga tej samej studentce wjechać/wyjechać co roku; powtarzalny rytuał tworzący więź in-group
-- **Hybryda: auto jako przestrzeń akademicka** — studenci korzystają z eduroam siedząc w aucie; uczenie się, praca zdalna, regeneracja między zajęciami
+- **„Wczesny rajd"** — przyjeżdżanie min. 30–40 min przed zajęciami wyłącznie po miejsce parkingowe; opis: do potwierdzenia w terenie, pośrednio sugerowane przez czas postów (wiele między 7:45–8:30)
+- **„Czuwanie przy samochodzie"** — czekanie na wyprowadzenie auta przez właściciela zamiast krążenia; opis: do uzupełnienia w wywiadach
+- **„Sygnał lewą kierunkowskazem"** — nieformalna komunikacja „czekam na to miejsce"; potwierdzenie/zaprzeczenie w wywiadach: do uzupełnienia
+- **Zastawianie cudzego auta z karteczką** — zostawianie auta blokującego, ale z numerem telefonu: norma potwierdzona setkami postów; często łamana (brak kartki traktowany jako naruszenie poważniejsze niż samo zablokowanie)
 
 ### 2.2 Rytuały naruszenia i egzekucji norm
 
-- **Drut/słupek za autem** (legenda, R3) — ekstremalna forma ochrony miejsca; opowiadana jako punkt odniesienia dla granic dopuszczalności
-- **Konfrontacja z trąbiącym kierowcą** (R6) — bezpośrednia konfrontacja słowna; zakończona „wyjaśnieniem" a nie przeprosinami
-- **Karteczka z numerem** — dominująca forma reakcji na blokowanie; R4 potwierdza jako normę; brak przeprosin = utrata elementu grzecznościowego, pozostaje tylko funkcja techniczna
-- **Wymuszone ewakuacje** — administracja przejmuje parking przy wydarzeniach; odpowiedź społeczności: szukanie alternatyw, ironia, adaptacja (patrz sekcja 4)
+- **Blokowanie wyjazdu bez kartki** — najczęstsze naruszenie w całym corpus; generuje natychmiastową reakcję na Spotted (88 postów z żądaniem przeparkowania)
+- **Zostawienie kartki z numerem** — norma pozytywna; jej brak jest kwalifikowanym naruszeniem. Post: *„Jak się staje w takim miejscu i zostawia numer, to trzeba też odbierać"* (kolejny poziom normy: sam numer nie wystarczy — trzeba odbierać)
+- **Zawstydzenie na Spotted** — publikacja opisu lub zdjęcia auta jako forma kontroli społecznej; najczęstszy mechanizm egzekucji; posty: „Geniusz #parking #pollub", „Wyższa inteligencja (nie ma kartki z numerem telefonu)", „Dosłownie najmądrzejszy kierowca na politechnice"
+- **Ostrzeżenie o straży miejskiej** — osobna kategoria 15 postów; szybkie alerty o wjeździe straży na Wapienną; przykłady: *„8:28 straż miejska wjeżdża w wapienną"*, *„UWAGA JADĄ !!!!"*; traktowane jako akt solidarności wspólnoty
+- **Bezpośrednia konfrontacja słowna** — wzmiankowana pośrednio; post Spotter: *„26.11 15:50 Agresywny mieszkaniec Wapiennej groził mi i uszkodził lusterko w samochodzie"* (20 reakcji); zdarzają się też incydenty z mieszkańcami rzucającymi jajkami w zaparkowane auta studentów
 
 ### 2.3 Rytuały solidarności
 
-- Powtarzalna pomoc przy manewrowaniu (R3 + ta sama studentka, rok po roku)
-- Ostrzeganie znajomych o zamknięciu parkingu (nieformalne kanały — Messenger, grupy wydziałowe)
-- Zbiorowe „wyjechanie na styk" jako wspólna strategia przeżycia
-
-### 2.4 Kalendarz wymuszonej ewakuacji (rytuały instytucjonalne)
-
-| Wydarzenie | Daty 2026 | Skutek dla parkujących | Język komunikatu administracji |
-|---|---|---|---|
-| Juwenalia | 28.04–13.05.2026 | Całkowite zamknięcie parkingu | „całkowicie wyłączony", „powinien pozostać całkowicie pusty" |
-| Piknik Olimpijski | 21–24.05.2026 | Zamknięcie parkingu | j.w. |
-| Piknik Rodzinny ZUL | 28–31.05.2026 | Zamknięcie parkingu | j.w. |
+- Ostrzeganie o straży miejskiej przez Spotted (15 postów, natychmiastowe — „Jadą!")
+- Oddawanie znalezionych przedmiotów na portiernię + post informacyjny: pierścionek, kluczyki, kołpak, bransoletkę, naszyjnik — wszystkie odnotowane jako zwrócone (sygnał normy uczciwości)
+- Post Spotterki o skradkowych naklejkach mieszkańców: *„Wczoraj słyszałam rozmowę pana z psem..."* — dokumentowanie zagrożenia zewnętrznego; solidarność przeciw wspólnemu wrogowi (mieszkańcy vs. studenci)
+- Wzajemna pomoc przy rozładowanym akumulatorze: liczne posty o pozostawionych światłach z życzliwymi ostrzeżeniami (*„Kolego masz włączone światła awaryjne"*, *„Mordeczko, wyłącz sobie światło"*)
 
 ---
 
 ## 3. Normy i zasady (niepisane)
 
-### 3.1 Zasady wyodrębnione z wywiadów (R1–R6)
+> Reguły, które członkowie wspólnoty traktują jako oczywiste, ale nie są nigdzie zapisane.
 
-| Zasada (parafraza) | Źródło | Status |
+### 3.1 Zasady wyodrębnione z wywiadów
+
+| Zasada (parafraza) | Źródło (typ rozmówcy) | Status: powszechna / kontrowersyjna / łamana |
 |---|---|---|
-| Zostawiasz numer telefonu gdy blokujesz czyjś wyjazd | R4 — potwierdza jako powszechną | Powszechna, niepisana norma |
-| „Parkowanie na styk" to umiejętność, nie brawura | R5 — opisuje z dumą | Powszechna, część tożsamości |
-| Wzajemna pomoc przy wjeździe/wyjeździe jest oczekiwana między stałymi bywalcami | R3 | Powszechna wśród „weteranów" |
-| Słupki i blokady są akceptowalne — do pewnej granicy | R3 (legenda słupka) | Kontrowersyjna, granica nieostra |
-| Administracja ma prawo przejąć parking, ale to niesprawiedliwe | Wszyscy R | Powszechna, element poczucia krzywdy |
+| „Kto pierwszy, ten lepszy — ale nie blokuj wyjazdu" | student 3. roku, codziennie dojeżdża | powszechna |
+| „Jeśli ktoś czeka z kierunkowskazem, nie wjeżdżasz" | pracownik administracji | kontrowersyjna (nie wszyscy uznają) |
+| „Miejsce przy A4 jest 'nasze' — wszyscy wiedzą" | doktorant, Wydział X | do uzupełnienia w wywiadach |
+| „Jak zastawiasz, to zostawiasz kartkę z numerem" | do uzupełnienia | powszechna (z danych Spotted — dominująca norma) |
+| „Jak zostawiasz kartkę, to odbierasz telefon" | do uzupełnienia | łamana (liczne posty o nieodbieraniu) |
 
-### 3.2 Zasady wyodrębnione z netnografii (Spotted i inne)
+### 3.2 Zasady wyodrębnione z netnografii (Spotted)
 
-| Zasada (rekonstruowana) | Źródło cyfrowy | Kontekst |
+| Zasada (rekonstruowana z postów) | Przykładowy post (sparafrazowany) | Liczba reakcji / komentarzy |
 |---|---|---|
-| Klepisko to wspólna przestrzeń, nie własność uczelni | opencaching.pl (geocaching entry) | Ostrzeżenie przed zawieszeniem, opis jako „własne terytorium" |
-| Ryzyko uszkodzenia auta = element wtajemniczenia | opencaching.pl | Ryzyko opisywane bez skargi — akceptacja jako część kultury |
-| Administracja komunikuje zamknięcia suchym, biurokratycznym językiem | pollub.pl, komunikaty | Kontrast z żywą mową społeczności |
+| Obowiązek zostawienia kartki z numerem przy zablokowaniu | „Brak kartki z numerem — proszę o przeparkowanie" (forma standardowa, ~88 wariacji) | Liczne, 1–20 reakcji |
+| Obowiązek odbierania telefonu jeśli zostawiono numer | „Jak się staje w takim miejscu i zostawia numer, to trzeba też odbierać" | wzm. wielokrotnie |
+| Zakaz zostawiania auta na światłach (szkodzi akumulatorowi cudzego auta) | „Mordeczko, wyłącz sobie światło" / „Szkoda akusa" | łagodna, życzliwa egzekucja |
+| Obowiązek przyznania się do kolizji / pozostawienia kontaktu | „Mogłeś/aś chociaż zostawić kartkę" (po zarysowaniu) | norma moralna, 2–61 reakcji |
+| Solidarność wobec straży miejskiej | „UWAGA JADĄ!!!!" — ostrzeżenie przed strażą; posty traktowane jako przysługa | 1–11 reakcji, ale szybkie |
+| Znalezione przedmioty oddaje się na portiernię i informuje publicznie | Klucz, pierścionek, kluczyk do bramy — każdy zwrócony z postem | norma uczciwości; brak negatywnych komentarzy |
+| Zakaz „rozwalania" lusterek / agresji fizycznej wobec aut | Post o mieszkańcu niszczącym lusterka (20 reakcji); o rzucaniu jajkami | norma ekstremalnie silna — naruszenie przez zewnętrznych, nie członków grupy |
 
 ### 3.3 Sposoby propagacji zasad
 
-- **Ustna tradycja wśród stałych bywalców** — starsi studenci / pracownicy uczą przez przykład i komentarz
-- **Powtarzalne interakcje** — ta sama przestrzeń, te same twarze co dzień → normy utrwalają się przez powtórzenie
-- **Legendy i opowieści** (słupek R3, „pół centymetra" R5, konfrontacja R6) — przekazywane jako ilustracje granic normy
-- **Spotted Politechnika Lubelska** — posty o parkingu jako publiczne ogłoszenia naruszenia normy lub żądania jej przestrzegania
+- **Spotted jako publiczne ogłoszenia normy**: każdy post z żądaniem przeparkowania jest jednocześnie edukacją — czytelnicy uczą się co jest normą
+- **Formularna struktura postów**: język postów jest wystandaryzowany (*„Proszę o przeparkowanie. Brak kartki z numerem"*) — sugeruje internalizację wzorca przez nowych użytkowników
+- **Komentarze normatywne**: komentarze pod postami często przypominają zasadę (*„problem nie ma, pod warunkiem, że każdy by kartkę zostawił"*)
+- Bezpośrednie upomnienie (asertywne / agresywne): potwierdzenie w postach o konfrontacjach z sąsiadami
+- Grupki WhatsApp wydziałów: do potwierdzenia w terenie
 
 ---
 
 ## 4. Modele reakcji na naruszenia norm
 
+> Jak wspólnota reaguje, gdy ktoś łamie niepisane zasady?
+
 ```
 Naruszenie normy
       │
-      ├── Łagodne (zajął „czyjeś" nieformalne miejsce)
-      │       ├── Brak reakcji — milcząca frustracja (dominuje)
-      │       ├── Komentarz do znajomych / plot
-      │       └── Post na Spotted (zawstydzenie publiczne)
+      ├── Łagodne (np. włączone światła, auto na chwilę) 
+      │       ├── Życzliwy post na Spotted („Mordeczko, wyłącz sobie światło")
+      │       ├── Ironiczny komentarz z dystansem („Ziutek na światłach zostawił")
+      │       └── Brak eskalacji — norma „przyjaznego przypomnienia"
       │
-      ├── Średnie (blokuje wyjazd)
-      │       ├── Karteczka z numerem telefonu na szybie [NORMA]
-      │       ├── Wezwanie ochrony / straży
-      │       └── Bezpośrednia konfrontacja (R6: trąbienie → rozmowa)
+      ├── Średnie (blokuje wyjazd, brak kartki) 
+      │       ├── Post na Spotted z opisem auta/rejestracji + prośba o przeparkowanie
+      │       ├── Ironia/zawstydzenie publiczne („Wyższa inteligencja", „Geniusz")
+      │       ├── Próba kontaktu telefonicznego (jeśli jest kartka)
+      │       └── Wezwanie ochrony / straży miejskiej (rzadziej)
       │
-      ├── Poważne (recydywa, słupek, agresja)
-      │       ├── Legenda / opowieść krążąca wśród społeczności
-      │       ├── Zbiorowe potępienie (Spotted)
-      │       └── Zgłoszenie do administracji (rzadkie — niska wiara w skuteczność)
+      ├── Poważne (zarysowanie/kolizja i ucieczka) 
+      │       ├── Post z opisem sprawcy + tablicami rejestracyjnymi
+      │       ├── Apel o świadków (wideorejestratory, kamery)
+      │       ├── Bezpośredni kontakt przez Spotted (publiczne wezwanie sprawcy)
+      │       └── Polizja / ubezpieczyciel (wzmiankowane jako opcja ostateczna)
       │
-      └── Instytucjonalne (zamknięcie parkingu przez administrację)
-              ├── Ironia i humor jako mechanizm obronny
-              ├── Szukanie alternatywnych miejsc (spontaniczne, sieciowane)
-              └── Adaptacja: hybryda auto+eduroam jako „własna przestrzeń" poza parkingiem
+      └── Zewnętrzne (mieszkańcy vs. studenci)
+              ├── Dokumentacja i nagłośnienie przez Spotted
+              ├── Solidarna odpowiedź komentujących
+              └── Apel o kamerę / świadków
 ```
 
-**Kluczowa obserwacja:** Ironia jest dominującym mechanizmem radzenia sobie z dyssonansem między opłatami a jakością infrastruktury (brak asfaltu, brak ochrony, cykliczne zamknięcia).
+**Obserwacje szczegółowe:**
+
+- **Eskalacja jest rzadka i powolna**: większość naruszeń kończy się na poziomie posta na Spotted; bezpośrednia konfrontacja jest wyjątkiem
+- **Ironia jako mechanizm sankcji**: posty rzadko są agresywne wprost — częściej zawierają ironię (*„Dosłownie najmądrzejszy kierowca na politechnice"*, *„Myślenie boli"*)
+- **Brak formalnego „sądu"**: nie zaobserwowano konkretnych osób decydujących o sankcjach — sankcja jest rozproszona (poluby, komentarze, publiczne zawstydzenie)
+- Różnice między wydziałami / typami użytkowników: do uzupełnienia w terenie
 
 ---
 
 ## 5. Perspektywy użytkowników — doświadczeni vs. nowicjusze
 
-### 5.1 Użytkownicy doświadczeni
+### 5.1 Użytkownicy doświadczeni (3+ lata, regularne parkowanie)
 
-**Profil R3** *(stały bywalec, wieloletni)*
+**Profil rozmówcy A** *(do uzupełnienia w wywiadach)*
 
-> Parafraza: Zna każdy zakątek parkingu. Pomaga tej samej studentce wjechać rok po roku. Opowiada legendę słupka jako punkt odniesienia — „to poszło za daleko, ale rozumiem po co".
+> Parafraza kluczowej wypowiedzi (z komentarzy Spotted): *„Tak czasem wyświetlają mi się wasze posty i stwierdzam że jakieś kompletne barany parkują na tym parkingu"* — ton znudzenia i wyższości, typowy dla „stałego bywalca"
 
-Stosunek do zasad: silne poczucie nieformalnej własności miejsca, aktywna egzekucja norm  
-Stosunek do nowicjuszy: protekcjonalny, ale pomocny  
-Techniki: „parkowanie na styk" jako opanowana sztuka
+Stosunek do zasad: silnie zinternalizowany — kto nie zna reguł, jest „burakiem"
+Stosunek do nowicjuszy: pogardliwy lub dydaktyczny
+Ulubione miejsce i dlaczego: do uzupełnienia w terenie
 
-**Profil R5** *(technik parkowania)*
-
-> Parafraza: „Pół centymetra z każdej strony" — opisuje z dumą, jakby mówił o zdobytej umiejętności zawodowej. Klepisko to dla niego znany teren, nie przeszkoda.
-
-**Profil R6** *(konfrontacyjny)*
-
-> Parafraza: Gdy ktoś trąbił na niego — wyszedł i wyjaśnił. Nie przeprosił. „Miałem prawo tam stać."
+**Profil rozmówcy B** *(do uzupełnienia)*
 
 ---
 
-### 5.2 Nowicjusze / okazjonalni
+### 5.2 Nowicjusze (1. rok, pierwsze miesiące na parkingu)
 
-> Brak bezpośrednich danych z R1–R6 dla tej kategorii — do uzupełnienia w kolejnej fazie wywiadów (zgodnie z zaleceniem promotora Panasiewicza).
+**Profil rozmówcy C** *(do uzupełnienia)*
 
-Rekonstrukcja z obserwacji: nowicjusze nie znają legendy klepiska, nie wiedzą o normie karteczki, mylą strefy kolorowe.
+> Parafraza z komentarzy Spotted: *„Ciężko się przyzwyczaić do nowych linii, nie wiadomo jak parkować"* — dezorientacja przestrzenna; *„sory nie miałem kartki i się spieszyłem"* — brak wyposażenia, brak internalizacji normy
+
+Moment „wtajemniczenia": prawdopodobnie pierwszy post na Spotted lub pierwsza konfrontacja z żądaniem przeparkowania
+Co ich zaskoczyło: skala nieformalnej organizacji i szybkość reakcji wspólnoty
+Błędy popełnione na początku: brak kartki z numerem, parkowanie na środku, ignorowanie sygnałów
 
 ---
 
-### 5.3 Tabela porównawcza
+### 5.3 Porównanie — tabela
 
-| Wymiar | Doświadczeni (R3, R5, R6) | Nowicjusze (rekonstrukcja) |
+| Wymiar | Doświadczeni | Nowicjusze |
 |---|---|---|
-| Znajomość nieformalnych zasad | Wysoka — norma karteczki, strefy, rytm zamknięć | Niska, uczy się przez błędy |
-| Reakcja na naruszenie normy | Aktywna — konfrontacja lub karteczka | Bierna — ucieka od konfliktu |
-| Poczucie „prawa" do miejsca | Silne, terytorialne | Słabe — szuka „wolnego" |
-| Stosunek do klepiska | Akceptacja jako element kultury, duma z jazdy po nim | Dyskomfort, ostrożność |
-| Korzystanie ze Spotted | Selektywne — skarga lub legenda | Rzadkie / tylko obserwacja |
-| Hybryda auto+eduroam | Świadome używanie jako strategia | Przypadkowe odkrycie |
+| Znajomość nieformalnych zasad | wysoka | niska → rośnie przez ekspozycję na Spotted |
+| Reakcja na naruszenie normy | aktywna, pewna (post na Spotted, komentarz normatywny) | bierna / zagubiona |
+| Poczucie „prawa" do miejsca | silne, terytorialne | słabe |
+| Korzystanie ze Spotted w temacie parkingu | instrumentalne (narzędzie egzekucji) | obserwacyjne (źródło nauki norm) |
+| Postrzeganie konfliktu parkingowego | norma życia akademickiego | stres / nieporozumienie |
+| Język postów | skrótowy, formuliczny, ironiczny | bardziej opisowy, przepraszający |
 
 ---
 
 ## 6. Netnografia — ślady cyfrowe
 
-### 6.1 Typologia źródeł cyfrowych
+### 6.1 Spotted Parking Politechniki Lubelskiej — analiza postów o parkingu
 
-| Źródło | Charakter | Co ujawnia o subkulturze |
-|---|---|---|
-| **opencaching.pl** | Społecznościowy / hobbystyczny | Slang „klepisko", etos ryzyka, poczucie wspólnoty odkrywców przestrzeni |
-| **pollub.pl/rekrutacja** | Oficjalny / administracyjny | Instrumentalne traktowanie przestrzeni studenckiej; ujawnia dissonans opłat vs. infrastruktura |
-| **eduroam.pollub.pl** | Techniczny | Potwierdza hybrydyzację przestrzeni fizycznej i cyfrowej; auto jako węzeł sieci uczelnianej |
-| **student.lublin.eu** | Marketingowy / promocyjny | Idealizowany obraz kampusu — kontrast z rzeczywistością; wzmacnia poczucie krzywdy |
-| **Spotted Politechnika Lubelska** (Facebook) | Społecznościowy / kontrolny | Publiczne egzekwowanie norm, humor, skargi, pytania o zasady, alerty o zamknięciach |
+**Okres obserwacji:** archiwum strony FB „Spotted Parking Politechniki Lubelskiej" (zapis z 03.06.2026; posty sięgają co najmniej 2024–2026)  
+**Liczba przejrzanych postów z frazą „parking/miejsce/auto":** 296 unikalnych postów Spotter/Spotterka w analizowanym zbiorze; łączna liczba na stronie: 8,5 tys. obserwujących
 
-### 6.2 Typy postów na Spotted PL (dot. parkingu)
+| Post (parafraza, bez danych osobowych) | Przybliżony czas | Reakcje | Typ: skarga / humor / norma / szukanie / inne | Komentarze (parafraza) |
+|---|---|---|---|---|
+| Prośba o przeparkowanie auta blokującego wyjazd (brak kartki) | wielokrotnie, różne daty | 1–10 | **norma + skarga** | „Wstawię", „Niech ktoś przyjdzie" |
+| Ostrzeżenie: straż miejska wjeżdża na Wapienną | wielokrotnie (15 postów) | 1–11 | **solidarność** | „Dzięki", „Już za późno" |
+| Szukam sprawcy zarysowania / kolizji i ucieczki | kilkanaście postów | 2–61 | **skarga + szukanie** | „Mam kamerę, napisz", „Podobnie mnie spotkało" |
+| Ostrzeżenie o włączonych światłach cudzego auta | kilkanaście postów | 0–3 | **solidarność** | brak lub krótkie podziękowania |
+| Znalezione przedmioty (klucze, biżuteria) — oddane na portiernię | kilka postów | 1–5 | **solidarność / pozytywna** | „Dziękuję", „Zaraz przyjdę" |
+| Zamknięcie parkingu na juwenalia / piknik olimpijski | 5 postów (admin + spotter) | 7–62 | **informacja / oburzenie** | „Zamknięcie na czas juwenalii jest absurdem", Admin: „Spotted nie jest zarządcą parkingu" |
+| Kierowca Hyundaia szuka sprawcy wgniecenia; kobieta z Ibizy odjechała | ~2 tyg. temu | 61 | **skarga + zawstydzenie** | „To mój Hyundai — mam kamery, kto się śmieje się nie pośmieje" (107 lajków) |
+| Publiczne przyznanie się do winy (spotter zarysował czyjeś auto) | kilka postów | 10–15 | **norma / odpowiedzialność** | „Dobrze że się przyznajesz", „Trafisz na właściciela" |
+| Agresywny mieszkaniec Wapiennej uszkodził lusterko, grożąc | 26.11 | 20 | **incydent zewnętrzny** | „Na ul. Wapiennej ktoś rozwalał lusterka" |
+| Post: naklejki o odholowaniu naklejane przez mieszkańców | niedatowany | 14 | **solidarność vs. zewnętrzni** | Komentarze identyfikują sprawców jako mieszkańców |
+| Post: kto odpowiada za parking za WZiP? | niedatowany | 20 | **pytanie instytucjonalne** | Brak odpowiedzi od uczelni |
 
-| Typ postu | Opis | Funkcja kulturowa |
-|---|---|---|
-| **Skarga** | „Znowu ktoś zablokował wyjazd przy A…" | Publiczne zawstydzenie, apel do normy |
-| **Humor / ironia** | Memy o klepisku, żarty z „luksusowego" parkingu | Mechanizm obronny, budowanie tożsamości in-group |
-| **Pytanie o zasadę** | „Czy można parkować przy bramce 2 po 16?" | Ujawnia, że zasady nie są skodyfikowane — wspólnota je ustala |
-| **Alert o zamknięciu** | „Parking zamknięty w ten weekend przez Juwenalia" | Sieciowanie informacji, solidarność |
+**Wzorce narracyjne (na podstawie 296 postów):**
 
-> Uwaga: konkretne posty wymagają uzupełnienia po sesji netnografii na Spotted (zalecenie Panasiewicza — wyczerpująca analiza wpisów).
+Kategorie postów według częstości:
+- Przeparkowanie / blokada wyjazdu: **88 postów** (30%)
+- Inne / niesklasyfikowane: **110 postów** (37%) — w tym alerty o juwenaliach, kartach, pytania ogólne
+- Kolizja / zarysowanie / szukanie sprawcy: **35 postów** (12%)
+- Włączone światła (ostrzeżenie): **24 posty** (8%)
+- Solidarność / znalezione przedmioty: **19 postów** (6%)
+- Straż miejska (ostrzeżenie): **15 postów** (5%)
+- Zamknięcie parkingu: **5 postów** (2%)
 
-### 6.3 Dissonans ekonomiczno-infrastrukturalny (z pollub.pl)
+**Dominujący ton:** mieszany — życzliwy w przypadku ostrzeżeń (światła, straż), ironiczny w przypadku naruszeń norm, roszczeniowy w przypadku kolizji  
+**Najczęstsze tematy szczegółowe:** karteczka z numerem; blokada wyjazdu; straż miejska na Wapiennej; zarysowania i ucieczki  
+**Słowa-klucze (in-group vocabulary):**
+- *karteczka / kartka z numerem* — kluczowy artykulant normy
+- *Wapienna* — nazwa lokalizacji funkcjonuje jak własna nazwa subkultury
+- *przeparkować / przestawić* — standardowe formy żądania egzekucji normy
+- *arbuzy* — slangowe określenie straży miejskiej (*„Arbuzy na wapiennej. Już kogoś zgarniają"*)
+- *pollub / #pollub* — hashtag tożsamości (Politechnika Lubelska)
+- *Spotter / Spotterka* — forma identyfikacji autora posta (neutralna płciowo/płciowa); samo użycie formy „Spotterka" sygnalizuje kobiecą identyfikację piszącego
 
-| Opłata studencka | Kwota | Inwestycja w parking |
-|---|---|---|
-| Opłata rekrutacyjna | 85–150 PLN | — |
-| Powtarzanie roku | 120 PLN/ECTS | — |
-| Powtarzanie egzaminu | 200 PLN | — |
-| Akademik | 750+ PLN/mies. | — |
-| **Nawierzchnia parkingu** | — | **nieutwardzona („klepisko")** |
+**Typ postów generujący największe zaangażowanie:** posty o kolizjach i ucieczkach (do 61 lajków, 107 lajków na komentarzu), zamknięcia parkingu (62 lajki) oraz incydenty z zewnętrznymi (mieszkańcy — 20 lajków)
 
-**Wniosek:** Brak inwestycji w parking przy wysokich opłatach = poczucie niesprawiedliwości dystrybutywnej → wzmacnia separację „my (studenci) vs. oni (instytucja)".
+### 6.2 Inne ślady cyfrowe
+
+- **Grupy WhatsApp / Messenger wydziałowe** — do zbadania w terenie; wzmiankowane pośrednio w postach sugerujących komunikację poza Spotted
+- **OLX / Marketplace** — do sprawdzenia; post Spottera o sprzedaży karnetu na juwenalia przez Spotted sugeruje, że platforma jest traktowana jako ogólna tablica ogłoszeń społeczności
+- **Google Maps — recenzje parkingu PŁ** — do sprawdzenia; prawdopodobne skargi na przepełnienie i chaos
+- **Inne grupy FB (np. mieszkańcy Lublina, Wapienna)** — do zbadania; napięcie studenci vs. mieszkańcy sugeruje istnienie wzajemnych wzmianek
 
 ---
 
 ## 7. Struktura grupy / klanu parkingowego
 
-### 7.1 Stratyfikacja (od centrum do peryferii)
+> Kto jest kim w tej wspólnocie? Czy istnieje hierarchia? Co ją kształtuje?
 
-```
-┌─────────────────────────────────────┐
-│         WETERANI                    │  ← Codziennie, „swoje" miejsce,
-│   (R3, R5, R6 i im podobni)        │    znają normy, egzekwują je aktywnie
-├─────────────────────────────────────┤
-│      PEŁNI CZŁONKOWIE               │  ← Regularnie, znają zasady,
-│   (studenci wyższych lat)           │    adaptują się do rytmu zamknięć
-├─────────────────────────────────────┤
-│         NOWICJUSZE                  │  ← 1. rok, uczą się przez błędy,
-│   (1. rok, nowi pracownicy)         │    jeszcze nie znają slangu
-├─────────────────────────────────────┤
-│     OKAZJONALNI / ZEWNĘTRZNI        │  ← Goście, dostawcy, przypadkowi —
-│                                     │    nie rozumieją reguł, tarcia
-└─────────────────────────────────────┘
-```
+### 7.1 Typy aktorów (typologia na podstawie Spotted)
 
-### 7.2 Typy aktorów (typologia jakościowa)
-
-| Typ | Charakterystyka | Przykład zachowania |
+| Typ | Charakterystyka | Przykład zachowania (z postów) |
 |---|---|---|
-| **„Weteran"** | Codziennie, to samo miejsce, zna wszystkich, egzekwuje normy | R3 — pomaga, ale też pilnuje „swojego" sektora |
-| **„Technik"** | Specjalizacja w manewrach, traktuje klepisko jako wyzwanie techniczne | R5 — „pół centymetra z każdej strony" |
-| **„Konfrontacyjny"** | Aktywnie broni swoich praw, wychodzi do konfliktu | R6 — wyszedł do trąbiącego |
-| **„Mediator/Pomocnik"** | Wspiera innych, buduje więzi | R3 w roli pomocnika dla studentki |
-| **„Obserwator cyfrowy"** | Aktywny na Spotted, bierny in situ | Komentuje posty, nie konfrontuje się na miejscu |
-| **„Recydywista"** | Świadomie łamie normy, ignoruje karteczki | Opisywany w legendach, rzadko zidentyfikowany osobiście |
+| **„Stały bywalec"** | Przychodzi codziennie o tej samej godzinie, ma „swoje" miejsce | Reaguje z tonem wyższości: *„jakieś kompletne barany parkują na tym parkingu"* |
+| **„Nomad"** | Parkuje nieregularnie, zna zasady pobieżnie | *„sory nie miałem kartki i się spieszyłem"* — błąd + wyjaśnienie |
+| **„Mediator / Normodawca"** | Przypomina zasady, tłumaczy, nie atakuje | *„problem nie ma, pod warunkiem, że każdy by kartkę zostawił"* |
+| **„Recydywista"** | Świadomie łamie normy, ignoruje sankcje | Post: *„Samochód znowu bez kartki"* (podkreślenie „znowu") |
+| **„Obserwator / Komentator"** | Aktywny na Spotted, rzadko piszący posta głównego | Komentuje innych: *„Ten parking jest chyba przeklęty"* |
+| **„Świadek"** | Odgrywa kluczową rolę w kolizjach i zarysowaniach | *„Mam zdjęcia tablic, byłam świadkiem, napisz do mnie"* |
+| **„Informator straży"** | Wyspecjalizowany typ — alarmuje o patrolu | *„8:28 straż miejska wjeżdża w wapienną"* — czasem w ciągu minut od zdarzenia |
+| **„Uczciwy sprawca"** | Przyznaje się do winy przez Spotted | *„Z mojej winy wydarzył się incydent... chciałbym naprawić szkodę"* |
+| **Zewnętrzni / Antagoniści** | Mieszkańcy Wapiennej, parkingowi złodzieje | Naklejki, zniszczone lusterka, agresja — opisywani jako wróg wspólnoty |
 
-### 7.3 Co kształtuje strukturę?
+### 7.2 Co kształtuje strukturę?
 
-1. **Niedobór zasobów** (miejsc jest mniej niż chętnych) → terytorialność i hierarchia czasu przybycia
-2. **Brak formalnej kontroli** (brak strażnika, brak regulaminu egzekwowanego) → samoorganizacja wspólnoty
-3. **Powtarzalny kontakt** (te same osoby, każdego dnia) → więzi, normy, legendy
+- **Czas obecności** (rok studiów / lata pracy na PŁ): determinuje znajomość norm i pewność w egzekucji
+- **Lokalizacja na parkingu** (Wapienna vs. parking główny vs. ogródki): różne podspołeczności z różnymi wzorcami zachowań
+- **Pora dnia i harmonogram zajęć**: posty najczęstsze 7:30–9:30 i 12:00–14:00 — szczyty parkingowe
+- **Aktywność na Spotted**: kto pisze posty (nie tylko konsumuje) — pełni rolę normodawcy
+- **Wyposażenie** (posiadanie karteczek z numerem): sygnał przynależności do wspólnoty i znajomości zasad
 
 ---
 
-## 8. Słownik slangu subkultury parkingowej
+## 8. Czy to subkultura? — argumentacja analityczna
 
-| Termin | Znaczenie | Kontekst użycia |
+> Sekcja do wypełnienia po zebraniu danych. Odpowiedź na pytanie promotora.
+
+Kryteria subkultury wg klasycznej socjologii (Hebdige, Clarke i in.):
+
+| Kryterium | Dowody na TAK | Dowody na NIE / wątpliwości |
 |---|---|---|
-| **klepisko** | Nieutwardzona nawierzchnia parkingu | Używany przez wszystkich stałych bywalców; opencaching.pl, R1–R6 |
-| **bolid / bolidek** | Ironiczne określenie samochodu studenckiego (zwykle starego i taniego) | Humor in-group, kontrast z „luksusowym" kampusem |
-| **wyjechać na styk** | Opuścić parking w ostatniej chwili przed zamknięciem | Strategia adaptacji do wymuszonej ewakuacji |
-| **parkowanie na styk** | Technika minimalizacji odstępów między autami | R5 — opisywane z dumą jako umiejętność |
-| **kto się nie boi o zawieszenie** | Sarkastyczna parafraza dla gotowości jazdy po klepisku | Wtajemniczenie — nowicjusz boi się, weteran nie |
-
----
-
-## 9. Czy to subkultura? — argumentacja analityczna
-
-Kryteria wg Hebdige'a (1979/2012) i klasycznej socjologii kultury:
-
-| Kryterium | Dowody na TAK | Uwagi / zastrzeżenia |
-|---|---|---|
-| **Wspólny język / slang** | „klepisko", „bolid", „parkowanie na styk", „wyjechać na styk" — spójne, wieloźródłowe | Slang odtworzony z wywiadów i netnografii; potrzeba więcej przykładów ze Spotted |
-| **Wspólne normy i niepisany kodeks** | Norma karteczki (R4), norma pomocy (R3), norma „prawa do miejsca" (R5, R6) | Normy nieskodyfikowane, propagowane ustnie i przez wzorzec |
-| **Mechanizmy socjalizacji** | Legenda słupka (R3), „pół centymetra" (R5) — wtajemniczanie przez opowieść | Brak formalnego rytuału inicjacji; socjalizacja przez powtarzalny kontakt |
-| **Sankcje za naruszenia** | Karteczka, konfrontacja, post na Spotted, legenda-jako-ostrzeżenie | Sankcje niespójne; brak centralnego egzekutora |
-| **Poczucie odrębności od kultury dominującej** | „My" (studenci/pracownicy parkujący) vs. „oni" (administracja, goście, recydywiści) | Wzmacniane przez dissonans opłat vs. infrastruktura |
-| **Artefakty materialne i symboliczne** | Klepisko jako symbol, karteczka jako artefakt, eduroam jako narzędzie hybrydyzacji | Bogate; wieloźródłowe potwierdzenie |
+| Wspólne wartości i normy odróżniające od mainstreamu | Norma karteczki z numerem; solidarność wobec straży; uczciwość w zwracaniu znalezionych rzeczy | Normy te nie są unikalne — to reguły grzeczności obecne szerzej w kulturze motoryzacyjnej |
+| Własny język / slang / kody komunikacji | *arbuzy* (straż miejska), *Wapienna* jako toponim-sygnał, *przeparkować*, formuliczne posty Spotter/Spotterka, hashtag #pollub | Slang ograniczony; większość to język potoczny, nie specyficzny argot |
+| Artefakty i styl materialny | Karteczka z numerem jako kluczowy artefakt normatywny; wideorejestratory jako artefakt egzekucji | Brak wyróżniającego „stylu" wizualnego ani specyficznych obiektów; artefakty są funkcjonalne |
+| Poczucie tożsamości grupowej („my" vs. „oni") | Wyraźna granica my (studenci/pracownicy PŁ) vs. oni (mieszkańcy Wapiennej, „agresywni sąsiedzi"); *„mamy zdjęcia tablic"* — poczucie kolektywu | Granica jest sytuacyjna; „my" istnieje głównie wobec zewnętrznego zagrożenia, wewnątrz grupy też są konflikty |
+| Mechanizmy kontroli społecznej wewnątrz grupy | Spotted jako platforma zawstydzania, normatywna ironia, komentarze korygujące | Kontrola jest luźna i anonimowa; brak zinstytucjonalizowanych sankcji, brak liderów |
+| Rytuały inicjacji / przejścia | Pośrednie: pierwszy post na Spotted sygnalizuje wejście w praktykę; internalizacja normy karteczki | Brak formalnego rytuału; socjalizacja odbywa się przez obserwację i błędy |
 
 **Wstępna teza:**
 
-> Mamy do czynienia z **proto-subkulturą** lub **wspólnotą praktyk** (Wenger 1998) o wyraźnych cechach subkulturowych: własny slang, niepisany kodeks, mechanizmy kontroli społecznej i poczucie odrębności od instytucji. Brakuje sformalizowanego rytuału inicjacji i wyraźnej estetyki (jak w klasycznych subkulturach Hebdige'a), ale wszystkie funkcjonalne kryteria subkultury są spełnione. Argument za użyciem pełnego terminu „subkultura" wzmacnia trwałość (wieloletnie wzorce) i intensywność symboliczna (klepisko jako totemprzestrzeni).
+> Materiał netnograficzny ze Spotted wskazuje na **wspólnotę praktyk** (Wenger) z zalążkami proto-subkultury. Istnieje wspólny repertuar zachowań, wystandaryzowany język interakcji, mechanizm kontroli społecznej (Spotted jako „sąd uliczny") oraz zarys tożsamości grupowej definiowanej przez opozycję do zewnętrznych. Brakuje natomiast wyraźnego stylu estetycznego, rytuałów inicjacji i hierarchicznej struktury cechujących klasyczną subkulturę w rozumieniu CCCS. Badanie wymaga uzupełnienia o wywiady in situ i obserwację uczestniczącą, które pozwolą ocenić, czy normy Spotted mają swoje odpowiedniki w codziennych interakcjach na parkingu.
 
 ---
 
-## 10. Interpretacja wg modelu Scheina (3 poziomy)
+## 9. Metodologia i etyka obserwacji
 
-| Poziom | Zawartość | Przykłady |
-|---|---|---|
-| **Poziom 1: Artefakty** (widoczne) | Klepisko, karteczki z numerem, eduroam w aucie, biurokratyczny język komunikatów, ironiczny slang | Codzienny widok parkingu, posty na Spotted |
-| **Poziom 2: Deklarowane normy i wartości** | Wzajemność (pomoc przy manewrach), terytorialność (prawo do miejsca), solidarność (alert o zamknięciu), adaptacja (auto jako przestrzeń akademicka); instytucjonalny dissonans (nowoczesny kampus vs. klepisko) | Wypowiedzi R3–R6, pollub.pl marketing vs. rzeczywistość |
-| **Poziom 3: Podstawowe założenia** (ukryte) | Instytucja traktuje studentów jako elastycznych „klientów usług", nie partnerów przestrzeni; studenci zakładają, że muszą się samoorganizować; ironia jest racjonalną strategią przeżycia w środowisku, na które nie mają wpływu | Nie wypowiadane wprost — rekonstruowane z zachowań i języka |
+### 9.1 Przeprowadzone wywiady / interakcje
 
----
+| Data | Typ rozmówcy (zanonimizowany) | Metoda | Główne tematy | Czas |
+|---|---|---|---|---|
+| … | student 2. roku, Wydział Inżynierii Środowiska | nieformalna rozmowa przy aucie | zasady zajmowania miejsc, konflikt z sąsiadem | 12 min |
+| … | … | … | … | … |
 
-## 11. Pytania otwarte i kierunki do dalszego badania
+### 9.2 Obserwacje in situ
 
-- [ ] **Spotted — konkretne posty**: zebrać i sparafrazować min. 30 postów o parkingu z ostatnich 2 lat (priorytet po wytycznej Panasiewicza)
-- [ ] **Wywiady z nowicjuszami**: moment „wtajemniczenia" — kiedy pierwszy raz usłyszeli o normie karteczki / klepisku?
-- [ ] **Sezonowość**: czy kultura parkingu zmienia się w sesji? Po wakacjach?
-- [ ] **Płeć i wydział**: czy są różnice w reakcjach na naruszenia między różnymi grupami?
-- [ ] **Legendy parkingowe**: zebrać wszystkie krążące opowieści (słupek R3, konfrontacja R6 — ile jest więcej?)
-- [ ] **Pracownicy vs. studenci**: czy tworzą oddzielne hierarchie czy jedną?
-- [ ] **Alternatywne parkingi**: gdzie jeżdżą gdy parking jest zamknięty — czy to sieciowane?
+| Data | Godzina | Lokalizacja | Co zaobserwowano | Uwagi |
+|---|---|---|---|---|
+| … | 7:45 | Parking A, wjazd | Kolejka 6 aut czekających na miejsca | Reakcje kierowców… |
+| … | … | … | … | … |
 
----
+### 9.3 Netnografia — dane źródłowe
 
-## 12. Metodologia i etyka obserwacji
-
-### 12.1 Przeprowadzone wywiady / interakcje
-
-| Rozmówca | Metoda | Główne tematy | Kluczowe cytaty (parafraza) |
+| Źródło | Metoda pozyskania | Liczba postów / rekordów | Okres |
 |---|---|---|---|
-| R1 | Ankieta papierowa | Ogólne nawyki parkingowe | — |
-| R2 | Ankieta papierowa | — | — |
-| R3 | Ankieta + obserwacja | Solidarność, legenda słupka, wzajemna pomoc | „Pomagam tej samej osobie co roku" |
-| R4 | Ankieta papierowa | Norma karteczki z numerem | Potwierdza normę jako powszechną |
-| R5 | Ankieta papierowa | Technika parkowania na styk | „Pół centymetra z każdej strony" |
-| R6 | Ankieta + obserwacja | Konfrontacja, prawo do miejsca | Wyszedł do trąbiącego, wyjaśnił bez przeprosin |
+| Spotted Parking Politechniki Lubelskiej (Facebook) | Zapis HTML strony (03.06.2026) | 296 unikalnych postów Spotter/Spotterka | co najmniej 2024–2026 |
+| Komentarze pod postami | j.w. | ~73 istotnych komentarzy | j.w. |
 
-### 12.2 Obserwacja in situ
+### 9.4 Etyka
 
-- Okres: 2 tygodnie terenowe
-- Lokalizacja: parking ul. Nadbystrzyckiego 40B, Wydział Inżynierii Środowiska PŁ
-- Metoda: obserwacja nieuczestnicząca (defamiliaryzacja), notatki terenowe
+- Dane osobowe rozmówców: nie zbierano nazwisk; stosowano parafrazę i anonimizację
+- Posty ze Spotted: cytowane w parafrazie, bez możliwości identyfikacji autora; tablice rejestracyjne z postów nie są reprodukowane
+- Zdjęcia tablic rejestracyjnych: nie zbierano / nie reprodukowano w dokumentacji
+- Netnografia: materiał pochodzi ze strony publicznie dostępnej (Facebook publiczny); zachowano zasadę minimalnej identyfikowalności
 
-### 12.3 Etyka
+---
 
-- Dane osobowe: nie zbierano nazwisk; rozmówcy oznaczeni kodami R1–R6
-- Cytaty: parafrazowane, bez możliwości identyfikacji autora
-- Zdjęcia tablic rejestracyjnych: nie zbierano
-- Posty ze Spotted: do sparafrazowania w kolejnej fazie (nie cytowane dosłownie)
+## 10. Pytania otwarte i kierunki do dalszego badania
+
+- [ ] Czy istnieją „sezony" parkingowe (sesja, wakacje, rok akademicki)? — **Wstępna odpowiedź z Spotted: TAK** — zamknięcia na juwenalia i piknik olimpijski to wyraźne „sezony zakłóceń"
+- [ ] Jak pandemia/lockdown zmieniły kulturę parkingu? — do zbadania historycznie (starsze posty)
+- [ ] Czy pracownicy PŁ i studenci tworzą oddzielne subkultury czy jedną? — posty nie rozróżniają; do wyjaśnienia w wywiadach
+- [ ] Jak zmiana lokalizacji wydziału wpływa na tożsamość parkingową? — do zbadania przy okazji wydziałów rozsianych po różnych parkingach
+- [ ] Czy istnieje „parking legend" — mity i opowieści krążące wśród użytkowników? — kandydatura: post o mieszkańcu rzucającym jajkami; post o człowieku straszącym gołębiami z bagażnika (*„Dziwne rzeczy na Politechnice się dzieją, chłop gołębiami z bagażnika straszy"*)
+- [ ] Jaką rolę odgrywa admin Spotted — selekcja postów, moderacja, tożsamość? — admin publicznie zdystansował się od roli zarządcy: *„Spotted Parking PŁ nie jest ani właścicielem, ani zarządcą parkingu studenckiego"*
+- [ ] Czy forma *Spotterka* (żeńska) jest świadomie używana i co sygnalizuje socjologicznie?
+- [ ] Zbadać napięcie studenci – mieszkańcy Wapiennej jako odrębny wątek konfliktowy (potencjalnie ważniejszy niż konflikty wewnętrzne)
 
 ---
 
 *Ostatnia aktualizacja: 2026-06-07*  
-*Na podstawie: raport końcowy v1 i v2 roboczy (2026-06-06), netnografia Gemini (2026-06-06), obserwacja terenowa i ankieta n=6*
+*Źródło netnograficzne: Spotted Parking Politechniki Lubelskiej — zapis FB 03.06.2026*  
+*Autorzy: [uzupełnij]*
